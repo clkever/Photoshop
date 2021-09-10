@@ -1,2 +1,2 @@
-# Adobe-Photoshop
- in progress . . .
+Adobe-Photoshop
+in progress . . .
